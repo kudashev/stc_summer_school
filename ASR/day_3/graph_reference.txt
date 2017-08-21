@@ -1,0 +1,10 @@
+State: idx=0 word=None isFinal=False nextStatesIdxs=[1, 5] model=None 
+State: idx=1 word=None isFinal=False nextStatesIdxs=[1, 2] model=SIL 
+State: idx=2 word=None isFinal=False nextStatesIdxs=[2, 3] model=d 
+State: idx=3 word=None isFinal=False nextStatesIdxs=[3, 4] model=aa 
+State: idx=4 word=da isFinal=True nextStatesIdxs=[4] model=SIL 
+State: idx=5 word=None isFinal=False nextStatesIdxs=[5, 6] model=SIL 
+State: idx=6 word=None isFinal=False nextStatesIdxs=[6, 7] model=n 
+State: idx=7 word=None isFinal=False nextStatesIdxs=[7, 8] model=ee 
+State: idx=8 word=None isFinal=False nextStatesIdxs=[8, 9] model=t 
+State: idx=9 word=net isFinal=True nextStatesIdxs=[9] model=SIL 
